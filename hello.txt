@@ -30,7 +30,7 @@ A **business plan** is a structured document that outlines the goals of a busine
 * Overview of the industry and target market.
 * Includes:
 
-  * Market size and growth trends
+
   * Customer demographics and behavior
   * Competitive landscape and SWOT analysis (Strengths, Weaknesses, Opportunities, Threats)
 
